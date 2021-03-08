@@ -1,0 +1,15 @@
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\bin\Debug\LootBox.exe.config
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\bin\Debug\LootBox.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\bin\Debug\LootBox.pdb
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.csprojAssemblyReference.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\MainWindow.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\App.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox_MarkupCompile.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox_MarkupCompile.lref
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\MainWindow.baml
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.g.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.Properties.Resources.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.csproj.GenerateResource.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.csproj.CoreCompileInputs.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.pdb
