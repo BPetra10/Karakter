@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LootBox"
         mc:Ignorable="d"
-        Title="MainWindow" Height="444" Width="708" FontSize="18">
+        Title="MainWindow" Height="444" Width="797" FontSize="18">
 	<Grid>
 		<TextBox x:Name="xp" HorizontalAlignment="Left" Height="34" Margin="57,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextChanged="xp_TextChanged"/>
 		<Label Content="XP:" HorizontalAlignment="Left" Margin="15,43,0,0" VerticalAlignment="Top" Height="37" Width="42"/>
@@ -15,10 +15,12 @@
 		<ProgressBar x:Name="kov_xp_vonal" HorizontalAlignment="Left" Height="31" Margin="25,219,0,0" VerticalAlignment="Top" Width="394"/>
 		<Label Content="A következő szinthez kell:" HorizontalAlignment="Left" Margin="25,166,0,0" VerticalAlignment="Top"/>
 		<Label x:Name="kovXP" Content="" HorizontalAlignment="Left" Margin="25,264,0,0" VerticalAlignment="Top" Width="394"/>
-		<Button x:Name="arany" Content="Arany" HorizontalAlignment="Left" Margin="48,321,0,0" VerticalAlignment="Top" Width="91" Height="72" Background="#FFF0E72C" Click="arany_Click" IsEnabled="False"/>
-		<Button x:Name="ezust" Content="Ezüst" HorizontalAlignment="Left" Margin="175,321,0,0" VerticalAlignment="Top" Width="91" Height="72" Click="ezust_Click" IsEnabled="False"/>
-		<Button x:Name="bronz" Content="Bronz" HorizontalAlignment="Left" Margin="304,321,0,0" VerticalAlignment="Top" Width="91" Height="72" Background="#FFC56F28" Click="bronz_Click" IsEnabled="False"/>
-		<Label Content="Tárgyak:" HorizontalAlignment="Left" Margin="535,43,0,0" VerticalAlignment="Top"/>
-		<ListBox x:Name="targyLista" HorizontalAlignment="Left" Height="311" Margin="464,82,0,0" VerticalAlignment="Top" Width="209"/>
+		<Button x:Name="arany" Content="Arany" HorizontalAlignment="Left" Margin="41,312,0,0" VerticalAlignment="Top" Width="91" Height="72" Background="#FFF0E72C" Click="arany_Click" IsEnabled="False"/>
+		<Button x:Name="ezust" Content="Ezüst" HorizontalAlignment="Left" Margin="175,312,0,0" VerticalAlignment="Top" Width="91" Height="72" Click="ezust_Click" IsEnabled="False"/>
+		<Button x:Name="bronz" Content="Bronz" HorizontalAlignment="Left" Margin="302,312,0,0" VerticalAlignment="Top" Width="91" Height="72" Background="#FFC56F28" Click="bronz_Click" IsEnabled="False"/>
+		<Label Content="Tárgyak:" HorizontalAlignment="Left" Margin="573,14,0,0" VerticalAlignment="Top"/>
+		<ListBox x:Name="targyLista" HorizontalAlignment="Left" Height="311" Margin="501,53,0,0" VerticalAlignment="Top" Width="209"/>
+		<Button x:Name="bevitele" Content="Tárgyak bevitele" HorizontalAlignment="Left" Margin="416,372,0,0" VerticalAlignment="Top" Width="159" Click="bevitele_Click"/>
+		<Button x:Name="betoltes" Content="Tárgyak betöltése" HorizontalAlignment="Left" Margin="605,372,0,0" VerticalAlignment="Top" Width="151" Click="betoltes_Click"/>
 	</Grid>
 </Window>

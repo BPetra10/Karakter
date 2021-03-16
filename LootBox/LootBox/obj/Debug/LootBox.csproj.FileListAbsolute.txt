@@ -13,3 +13,5 @@ D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.cs
 D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.csproj.CoreCompileInputs.cache
 D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.exe
 D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\LootBox.pdb
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\Window1.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\LootBox\LootBox\obj\Debug\Window1.baml
